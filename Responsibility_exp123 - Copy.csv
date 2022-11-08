@@ -1,0 +1,923 @@
+V1,Experiment,ID,Definition,Pilot,Responsibility,employee,role
+0,1,R_1PR7Z95Vl4f5xdG,The Formal,AI,5,AI,instructor
+1,1,R_07czgf895aC81jP,The Formal,AI,1,AI,instructor
+2,1,R_u8JD2HfWtlsemBP,The Formal,AI,5,AI,instructor
+3,1,R_3qVEb55JI7otvNp,The Formal,AI,3,AI,instructor
+4,1,R_2zqeU3XbzeFoNSf,The Formal,AI,1,AI,instructor
+5,1,R_1gc1s8knSAhqUTb,The Formal,AI,10,AI,instructor
+6,1,R_2urllwll8raO6GK,The Formal,AI,9,AI,instructor
+7,1,R_1jNFKFQWAHPWGBd,The Formal,AI,7,AI,instructor
+8,1,R_Dwz0pKuKy8V5IVb,The Formal,AI,8,AI,instructor
+9,1,R_1JJ7YuJakgjoR2J,The Formal,AI,8,AI,instructor
+10,1,R_1OTQ7jCus6ri4GU,The Formal,AI,10,AI,instructor
+11,1,R_3OdhStkEppGYSle,The Formal,AI,10,AI,instructor
+12,1,R_6Fk6qMW4VOKnHrj,The Formal,AI,10,AI,instructor
+13,1,R_3R287tKUVCVJ0I8,The Formal,AI,4,AI,instructor
+14,1,R_2c2gD2tCpbS2fBv,The Formal,AI,8,AI,instructor
+15,1,R_uaWQpJ48RkgiunT,The Formal,AI,3,AI,instructor
+16,1,R_1Okoaa33iqxEAIZ,The Formal,AI,10,AI,instructor
+17,1,R_3FVWt9b5faTpJgA,The Formal,AI,8,AI,instructor
+18,1,R_3L73ENMOV8CpNE4,The Formal,AI,10,AI,instructor
+19,1,R_2aVntXLonCrOdnM,The Formal,AI,9,AI,instructor
+20,1,R_qJcChMUs0sCeLKx,The Formal,AI,4,AI,instructor
+21,1,R_6tY8oQS5Ka4TITD,The Formal,AI,7,AI,instructor
+22,1,R_2tyuHe47KeZkNOF,The Formal,AI,8,AI,instructor
+23,1,R_3NIDnrIZeWHz3BU,The Formal,AI,9,AI,instructor
+24,1,R_2Rb2JgMu7s0HuLi,The Formal,AI,10,AI,instructor
+25,1,R_1i3EGKbWlriOUof,The Formal,AI,5,AI,instructor
+26,1,R_1pAase1ntEIBXW0,The Formal,AI,10,AI,instructor
+27,1,R_1qVWQZ5t9cS3b0f,The Formal,AI,10,AI,instructor
+28,1,R_TplxuzvL2CbDFFD,The Formal,AI,10,AI,instructor
+29,1,R_31LQbdw2OqTRnyj,The Formal,AI,5,AI,instructor
+30,1,R_2CDH2ZdMrgk6M3D,The Formal,AI,10,AI,instructor
+31,1,R_2cCRjjhXbosetmx,Your,AI,8,AI,instructor
+32,1,R_yJuS6cZbS8XD5kd,Your,AI,10,AI,instructor
+33,1,R_1FsR2Sdr4qeJOO6,Your,AI,3,AI,instructor
+34,1,R_qyegsXb2Cht3WH7,Your,AI,10,AI,instructor
+35,1,R_3iU1rYId1Xi6jeu,Your,AI,10,AI,instructor
+36,1,R_z6ixugh626bh4qJ,Your,AI,7,AI,instructor
+37,1,R_21HgfGHwlVC4iPZ,Your,AI,0,AI,instructor
+38,1,R_2ti1inFCJy21HTx,Your,AI,10,AI,instructor
+39,1,R_1oc2oFJ56A9UPSo,Your,AI,8,AI,instructor
+40,1,R_33s4jbCd0ofxWH9,Your,AI,6,AI,instructor
+41,1,R_31NLF6qoSRDz8GT,Your,AI,10,AI,instructor
+42,1,R_3iIIhMG88BBcOMR,Your,AI,10,AI,instructor
+43,1,R_C8HgG25hALV87ux,Your,AI,7,AI,instructor
+44,1,R_Ddhaso6guAGeY5r,Your,AI,8,AI,instructor
+45,1,R_3QYmQlmYcbzSlkR,Your,AI,2,AI,instructor
+46,1,R_10COHrjVeTZRKOr,Your,AI,5,AI,instructor
+47,1,R_2OZK72oJvcory7W,Your,AI,6,AI,instructor
+48,1,R_1cTaJcjh3r51u8Y,Your,AI,8,AI,instructor
+49,1,R_23WFhNEjl1FM59s,Your,AI,4,AI,instructor
+50,1,R_2QfeeVYrrmWpVSp,Your,AI,7,AI,instructor
+51,1,R_2w4CO2LmT2b5FcU,Your,AI,10,AI,instructor
+52,1,R_vBRcx6pXhsXrd0B,Your,AI,1,AI,instructor
+53,1,R_3gTpNlnHqbwXDp7,Your,AI,0,AI,instructor
+54,1,R_2CJvN3B9SHtGVnJ,Your,AI,8,AI,instructor
+55,1,R_1jYPG2omOfYFcEK,Your,AI,8,AI,instructor
+56,1,R_1oHWwRrEcTXMmA0,Your,AI,6,AI,instructor
+57,1,R_zZp6hdxYz7I41kl,Your,AI,5,AI,instructor
+58,1,R_qO2OEo1qfZIG9A5,Your,AI,9,AI,instructor
+59,1,R_3gYt2OW0JkwHHxJ,Your,AI,10,AI,instructor
+60,1,R_1FxjLcKmLcR1exu,Your,AI,10,AI,instructor
+61,1,R_21hXVzXJlPHMBEp,Your,AI,5,AI,instructor
+62,1,R_ymUmKBvhOvF69s5,Your,AI,7,AI,instructor
+63,1,R_cx50kdA8749aZ8d,Your,AI,3,AI,instructor
+64,1,R_2ZQaF5AT0k9k2to,Your,AI,10,AI,instructor
+0,2,11,Your,Both,4,AI,instructor
+1,2,12,Your,Both,10,AI,instructor
+2,2,13,Your,Both,7,AI,instructor
+3,2,14,Your,Both,10,AI,instructor
+4,2,15,Your,Both,2,AI,instructor
+5,2,16,Your,Both,8,AI,instructor
+6,2,17,The Formal,Both,0,AI,instructor
+7,2,18,Your,Both,8,AI,instructor
+8,2,19,Your,Both,10,AI,instructor
+9,2,20,Your,Both,1,AI,instructor
+10,2,21,Your,Both,9,AI,instructor
+11,2,22,The Formal,Both,10,AI,instructor
+12,2,23,The Formal,Both,10,AI,instructor
+13,2,24,The Formal,Both,1,AI,instructor
+14,2,25,Your,Both,10,AI,instructor
+15,2,26,The Formal,Both,0,AI,instructor
+16,2,27,Your,Both,3,AI,instructor
+17,2,28,Your,Both,2,AI,instructor
+18,2,29,The Formal,Both,7,AI,instructor
+19,2,30,The Formal,Both,9,AI,instructor
+20,2,31,Your,Both,10,AI,instructor
+21,2,32,The Formal,Both,10,AI,instructor
+22,2,33,The Formal,Both,7,AI,instructor
+23,2,34,The Formal,Both,5,AI,instructor
+24,2,35,The Formal,Both,6,AI,instructor
+25,2,36,The Formal,Both,9,AI,instructor
+26,2,37,The Formal,Both,8,AI,instructor
+27,2,38,Your,Both,10,AI,instructor
+28,2,39,The Formal,Both,0,AI,instructor
+29,2,40,Your,Both,10,AI,instructor
+30,2,41,The Formal,Both,10,AI,instructor
+31,2,42,Your,Both,10,AI,instructor
+32,2,43,Your,Both,1,AI,instructor
+33,2,44,The Formal,Both,10,AI,instructor
+34,2,45,The Formal,Both,10,AI,instructor
+35,2,46,Your,Both,5,AI,instructor
+36,2,47,The Formal,Both,10,AI,instructor
+37,2,48,The Formal,Both,7,AI,instructor
+38,2,49,Your,Both,7,AI,instructor
+39,2,50,The Formal,Both,7,AI,instructor
+40,2,51,Your,Both,10,AI,instructor
+41,2,52,The Formal,Both,5,AI,instructor
+42,2,53,Your,Both,1,AI,instructor
+43,2,54,Your,Both,10,AI,instructor
+44,2,55,The Formal,Both,10,AI,instructor
+45,2,56,The Formal,Both,10,AI,instructor
+46,2,57,Your,Both,8,AI,instructor
+47,2,58,The Formal,Both,10,AI,instructor
+48,2,59,The Formal,Both,10,AI,instructor
+49,2,60,Your,Both,9,AI,instructor
+50,2,61,The Formal,Both,10,AI,instructor
+51,2,62,Your,Both,10,AI,instructor
+52,2,63,Your,Both,8,AI,instructor
+53,2,64,Your,Both,10,AI,instructor
+54,2,65,Your,Both,2,AI,instructor
+55,2,66,Your,Both,10,AI,instructor
+56,2,67,The Formal,Both,10,AI,instructor
+57,2,68,Your,Both,10,AI,instructor
+58,2,69,The Formal,Both,3,AI,instructor
+59,2,70,Your,Both,8,AI,instructor
+60,2,71,The Formal,Both,10,AI,instructor
+61,2,72,The Formal,Both,9,AI,instructor
+62,2,73,The Formal,Both,10,AI,instructor
+63,2,74,Your,Both,8,AI,instructor
+64,2,75,The Formal,Both,10,AI,instructor
+65,2,76,Your,Both,8,AI,instructor
+66,2,77,The Formal,Both,9,AI,instructor
+67,2,78,Your,Both,8,AI,instructor
+68,2,79,The Formal,Both,1,AI,instructor
+69,2,80,Your,Both,9,AI,instructor
+70,2,81,The Formal,Both,9,AI,instructor
+71,2,82,The Formal,Both,8,AI,instructor
+72,2,83,The Formal,Both,2,AI,instructor
+73,2,84,The Formal,Both,10,AI,instructor
+74,2,85,Your,Both,5,AI,instructor
+75,2,86,The Formal,Both,10,AI,instructor
+76,2,87,The Formal,Both,7,AI,instructor
+77,2,88,The Formal,Both,1,AI,instructor
+78,2,89,The Formal,Both,8,AI,instructor
+79,2,90,The Formal,Both,0,AI,instructor
+80,2,91,The Formal,Both,2,AI,instructor
+81,2,92,Your,Both,10,AI,instructor
+82,2,93,The Formal,Both,1,AI,instructor
+83,2,94,Your,Both,7,AI,instructor
+84,2,95,Your,Both,6,AI,instructor
+85,2,96,The Formal,Both,10,AI,instructor
+86,2,97,The Formal,Both,7,AI,instructor
+87,2,98,Your,Both,1,AI,instructor
+88,2,99,Your,Both,10,AI,instructor
+89,2,100,The Formal,Both,9,AI,instructor
+90,2,101,Your,Both,10,AI,instructor
+91,2,102,Your,Both,8,AI,instructor
+92,2,103,Your,Both,10,AI,instructor
+93,2,104,The Formal,Both,10,AI,instructor
+94,2,105,Your,Both,9,AI,instructor
+95,2,106,Your,Both,9,AI,instructor
+96,2,107,The Formal,Both,10,AI,instructor
+97,2,108,The Formal,Both,10,AI,instructor
+98,2,109,Your,Both,2,AI,instructor
+99,2,110,The Formal,Both,10,AI,instructor
+100,2,111,Your,Both,8,AI,instructor
+101,2,112,Your,Both,0,AI,instructor
+102,2,113,Your,Both,0,AI,instructor
+103,2,114,Your,Both,7,AI,instructor
+104,2,115,The Formal,Both,4,AI,instructor
+105,2,116,The Formal,Both,10,AI,instructor
+106,2,117,Your,Both,10,AI,instructor
+107,2,118,Your,Both,8,AI,instructor
+108,2,119,Your,Both,10,AI,instructor
+109,2,120,The Formal,Both,6,AI,instructor
+110,2,121,Your,Both,6,AI,instructor
+111,2,122,Your,Both,10,AI,instructor
+112,2,123,The Formal,Both,5,AI,instructor
+113,2,124,Your,Both,10,AI,instructor
+114,2,125,The Formal,Both,0,AI,instructor
+115,2,126,Your,Both,7,AI,instructor
+116,2,127,The Formal,Both,4,AI,instructor
+117,2,128,Your,Both,7,AI,instructor
+118,2,129,Your,Both,7,AI,instructor
+119,2,130,Your,Both,10,AI,instructor
+120,2,131,The Formal,Both,10,AI,instructor
+121,2,132,Your,Both,10,AI,instructor
+122,2,133,The Formal,Both,8,AI,instructor
+123,2,134,Your,Both,8,AI,instructor
+124,2,135,The Formal,Both,10,AI,instructor
+125,2,136,The Formal,Both,0,AI,instructor
+126,2,137,Your,Both,10,AI,instructor
+127,2,138,The Formal,Both,7,AI,instructor
+128,2,139,Your,Both,4,AI,instructor
+129,2,140,Your,Both,10,AI,instructor
+3,3,60ce1d6d0c6dae2c0360f926,Both,AI,7,AI,instructor
+5,3,5eaa97d07eda6e01ec108107,Both,AI,1,AI,instructor
+9,3,5faef172bbab740eb8533e8a,Both,AI,10,AI,instructor
+10,3,60dc3f2e921ea0bbfc791df2,Both,AI,6,AI,instructor
+11,3,60e06cd1df7b4ae59d8b6a6a,Both,AI,10,AI,instructor
+12,3,5ec7e258f052ac26af7aafc5,Both,AI,8,AI,instructor
+17,3,60de0942e48acbaca6072666,Both,AI,0,AI,instructor
+18,3,60cf52b409077c1ea45f8b36,Both,AI,10,AI,instructor
+19,3,5acb3b88f69e940001d9b83a,Both,AI,10,AI,instructor
+20,3,60e0ca31557a574319c39780,Both,AI,8,AI,instructor
+22,3,5e4424749319f82bb3c5118f,Both,AI,5,AI,instructor
+23,3,60e0cf14211f57a158950c63,Both,AI,10,AI,instructor
+26,3,60ddea6f590099fecd162250,Both,AI,6,AI,instructor
+27,3,60e0b3f2a8413d503d31c1bb,Both,AI,0,AI,instructor
+28,3,60e06297185df0d1c40e8c0c,Both,AI,0,AI,instructor
+33,3,5edb479a65964c7b4a6db0a9,Both,AI,6,AI,instructor
+35,3,60de293b31bac94001a6d980,Both,AI,7,AI,instructor
+37,3,60e0c1641783315b4e6ed5c7,Both,AI,7,AI,instructor
+38,3,60df0cc20d7ae4e27ea035ac,Both,AI,0,AI,instructor
+39,3,60e1ad4eb1af4648ebd18b70,Both,AI,3,AI,instructor
+41,3,60e10ed73b3d207be7f805e3,Both,AI,6,AI,instructor
+44,3,60dee8e78f202dd7e683b2ac,Both,AI,10,AI,instructor
+45,3,60dfaa93591ed77785918d4b,Both,AI,10,AI,instructor
+46,3,60e16fe59a9d5dbf5acd9af0,Both,AI,10,AI,instructor
+48,3,5a5f7480acc75b00017aab51,Both,AI,6,AI,instructor
+50,3,60d273217dd7dde4d8f21748,Both,AI,7,AI,instructor
+51,3,60d6497b6f2147b24ee44732,Both,AI,8,AI,instructor
+55,3,60e1b97d9e85e47446db321d,Both,AI,10,AI,instructor
+56,3,60e0b93c3038b854db4960ff,Both,AI,9,AI,instructor
+57,3,60df6d0879c92942c997958b,Both,AI,7,AI,instructor
+58,3,60ddb84386eb83559f02534c,Both,AI,9,AI,instructor
+62,3,60e022767fe4b17d5e9cddc0,Both,AI,8,AI,instructor
+65,3,60df70ed696ecb699b7751fc,Both,AI,10,AI,instructor
+70,3,60e060cff610d45c130ff87d,Both,AI,6,AI,instructor
+71,3,60df40102efaff7821689d62,Both,AI,10,AI,instructor
+72,3,5f7b6f66f815c412bc31bc7c,Both,AI,3,AI,instructor
+0,1,R_1PR7Z95Vl4f5xdG,The Formal,AI,5,AI,employer
+1,1,R_07czgf895aC81jP,The Formal,AI,8,AI,employer
+2,1,R_u8JD2HfWtlsemBP,The Formal,AI,4,AI,employer
+3,1,R_3qVEb55JI7otvNp,The Formal,AI,8,AI,employer
+4,1,R_2zqeU3XbzeFoNSf,The Formal,AI,2,AI,employer
+5,1,R_1gc1s8knSAhqUTb,The Formal,AI,10,AI,employer
+6,1,R_2urllwll8raO6GK,The Formal,AI,9,AI,employer
+7,1,R_1jNFKFQWAHPWGBd,The Formal,AI,7,AI,employer
+8,1,R_Dwz0pKuKy8V5IVb,The Formal,AI,8,AI,employer
+9,1,R_1JJ7YuJakgjoR2J,The Formal,AI,9,AI,employer
+10,1,R_1OTQ7jCus6ri4GU,The Formal,AI,7,AI,employer
+11,1,R_3OdhStkEppGYSle,The Formal,AI,10,AI,employer
+12,1,R_6Fk6qMW4VOKnHrj,The Formal,AI,10,AI,employer
+13,1,R_3R287tKUVCVJ0I8,The Formal,AI,4,AI,employer
+14,1,R_2c2gD2tCpbS2fBv,The Formal,AI,6,AI,employer
+15,1,R_uaWQpJ48RkgiunT,The Formal,AI,3,AI,employer
+16,1,R_1Okoaa33iqxEAIZ,The Formal,AI,8,AI,employer
+17,1,R_3FVWt9b5faTpJgA,The Formal,AI,9,AI,employer
+18,1,R_3L73ENMOV8CpNE4,The Formal,AI,7,AI,employer
+19,1,R_2aVntXLonCrOdnM,The Formal,AI,7,AI,employer
+20,1,R_qJcChMUs0sCeLKx,The Formal,AI,8,AI,employer
+21,1,R_6tY8oQS5Ka4TITD,The Formal,AI,7,AI,employer
+22,1,R_2tyuHe47KeZkNOF,The Formal,AI,8,AI,employer
+23,1,R_3NIDnrIZeWHz3BU,The Formal,AI,6,AI,employer
+24,1,R_2Rb2JgMu7s0HuLi,The Formal,AI,8,AI,employer
+25,1,R_1i3EGKbWlriOUof,The Formal,AI,3,AI,employer
+26,1,R_1pAase1ntEIBXW0,The Formal,AI,9,AI,employer
+27,1,R_1qVWQZ5t9cS3b0f,The Formal,AI,10,AI,employer
+28,1,R_TplxuzvL2CbDFFD,The Formal,AI,10,AI,employer
+29,1,R_31LQbdw2OqTRnyj,The Formal,AI,9,AI,employer
+30,1,R_2CDH2ZdMrgk6M3D,The Formal,AI,10,AI,employer
+31,1,R_2cCRjjhXbosetmx,Your,AI,8,AI,employer
+32,1,R_yJuS6cZbS8XD5kd,Your,AI,10,AI,employer
+33,1,R_1FsR2Sdr4qeJOO6,Your,AI,6,AI,employer
+34,1,R_qyegsXb2Cht3WH7,Your,AI,10,AI,employer
+35,1,R_3iU1rYId1Xi6jeu,Your,AI,9,AI,employer
+36,1,R_z6ixugh626bh4qJ,Your,AI,7,AI,employer
+37,1,R_21HgfGHwlVC4iPZ,Your,AI,5,AI,employer
+38,1,R_2ti1inFCJy21HTx,Your,AI,10,AI,employer
+39,1,R_1oc2oFJ56A9UPSo,Your,AI,8,AI,employer
+40,1,R_33s4jbCd0ofxWH9,Your,AI,7,AI,employer
+41,1,R_31NLF6qoSRDz8GT,Your,AI,4,AI,employer
+42,1,R_3iIIhMG88BBcOMR,Your,AI,7,AI,employer
+43,1,R_C8HgG25hALV87ux,Your,AI,9,AI,employer
+44,1,R_Ddhaso6guAGeY5r,Your,AI,8,AI,employer
+45,1,R_3QYmQlmYcbzSlkR,Your,AI,1,AI,employer
+46,1,R_10COHrjVeTZRKOr,Your,AI,2,AI,employer
+47,1,R_2OZK72oJvcory7W,Your,AI,7,AI,employer
+48,1,R_1cTaJcjh3r51u8Y,Your,AI,0,AI,employer
+49,1,R_23WFhNEjl1FM59s,Your,AI,7,AI,employer
+50,1,R_2QfeeVYrrmWpVSp,Your,AI,9,AI,employer
+51,1,R_2w4CO2LmT2b5FcU,Your,AI,10,AI,employer
+52,1,R_vBRcx6pXhsXrd0B,Your,AI,1,AI,employer
+53,1,R_3gTpNlnHqbwXDp7,Your,AI,0,AI,employer
+54,1,R_2CJvN3B9SHtGVnJ,Your,AI,7,AI,employer
+55,1,R_1jYPG2omOfYFcEK,Your,AI,7,AI,employer
+56,1,R_1oHWwRrEcTXMmA0,Your,AI,5,AI,employer
+57,1,R_zZp6hdxYz7I41kl,Your,AI,6,AI,employer
+58,1,R_qO2OEo1qfZIG9A5,Your,AI,1,AI,employer
+59,1,R_3gYt2OW0JkwHHxJ,Your,AI,10,AI,employer
+60,1,R_1FxjLcKmLcR1exu,Your,AI,5,AI,employer
+61,1,R_21hXVzXJlPHMBEp,Your,AI,3,AI,employer
+62,1,R_ymUmKBvhOvF69s5,Your,AI,8,AI,employer
+63,1,R_cx50kdA8749aZ8d,Your,AI,6,AI,employer
+64,1,R_2ZQaF5AT0k9k2to,Your,AI,8,AI,employer
+0,2,11,Your,Both,5,AI,employer
+1,2,12,Your,Both,10,AI,employer
+2,2,13,Your,Both,8,AI,employer
+3,2,14,Your,Both,10,AI,employer
+4,2,15,Your,Both,7,AI,employer
+5,2,16,Your,Both,7,AI,employer
+6,2,17,The Formal,Both,0,AI,employer
+7,2,18,Your,Both,6,AI,employer
+8,2,19,Your,Both,10,AI,employer
+9,2,20,Your,Both,7,AI,employer
+10,2,21,Your,Both,10,AI,employer
+11,2,22,The Formal,Both,10,AI,employer
+12,2,23,The Formal,Both,8,AI,employer
+13,2,24,The Formal,Both,1,AI,employer
+14,2,25,Your,Both,4,AI,employer
+15,2,26,The Formal,Both,10,AI,employer
+16,2,27,Your,Both,1,AI,employer
+17,2,28,Your,Both,3,AI,employer
+18,2,29,The Formal,Both,8,AI,employer
+19,2,30,The Formal,Both,7,AI,employer
+20,2,31,Your,Both,10,AI,employer
+21,2,32,The Formal,Both,10,AI,employer
+22,2,33,The Formal,Both,10,AI,employer
+23,2,34,The Formal,Both,9,AI,employer
+24,2,35,The Formal,Both,5,AI,employer
+25,2,36,The Formal,Both,9,AI,employer
+26,2,37,The Formal,Both,8,AI,employer
+27,2,38,Your,Both,10,AI,employer
+28,2,39,The Formal,Both,0,AI,employer
+29,2,40,Your,Both,0,AI,employer
+30,2,41,The Formal,Both,10,AI,employer
+31,2,42,Your,Both,9,AI,employer
+32,2,43,Your,Both,10,AI,employer
+33,2,44,The Formal,Both,10,AI,employer
+34,2,45,The Formal,Both,10,AI,employer
+35,2,46,Your,Both,7,AI,employer
+36,2,47,The Formal,Both,10,AI,employer
+37,2,48,The Formal,Both,7,AI,employer
+38,2,49,Your,Both,7,AI,employer
+39,2,50,The Formal,Both,6,AI,employer
+40,2,51,Your,Both,10,AI,employer
+41,2,52,The Formal,Both,6,AI,employer
+42,2,53,Your,Both,1,AI,employer
+43,2,54,Your,Both,10,AI,employer
+44,2,55,The Formal,Both,10,AI,employer
+45,2,56,The Formal,Both,10,AI,employer
+46,2,57,Your,Both,8,AI,employer
+47,2,58,The Formal,Both,5,AI,employer
+48,2,59,The Formal,Both,0,AI,employer
+49,2,60,Your,Both,10,AI,employer
+50,2,61,The Formal,Both,8,AI,employer
+51,2,62,Your,Both,10,AI,employer
+52,2,63,Your,Both,8,AI,employer
+53,2,64,Your,Both,10,AI,employer
+54,2,65,Your,Both,1,AI,employer
+55,2,66,Your,Both,9,AI,employer
+56,2,67,The Formal,Both,10,AI,employer
+57,2,68,Your,Both,10,AI,employer
+58,2,69,The Formal,Both,7,AI,employer
+59,2,70,Your,Both,6,AI,employer
+60,2,71,The Formal,Both,10,AI,employer
+61,2,72,The Formal,Both,10,AI,employer
+62,2,73,The Formal,Both,10,AI,employer
+63,2,74,Your,Both,8,AI,employer
+64,2,75,The Formal,Both,10,AI,employer
+65,2,76,Your,Both,10,AI,employer
+66,2,77,The Formal,Both,9,AI,employer
+67,2,78,Your,Both,8,AI,employer
+68,2,79,The Formal,Both,1,AI,employer
+69,2,80,Your,Both,9,AI,employer
+70,2,81,The Formal,Both,6,AI,employer
+71,2,82,The Formal,Both,8,AI,employer
+72,2,83,The Formal,Both,4,AI,employer
+73,2,84,The Formal,Both,10,AI,employer
+74,2,85,Your,Both,5,AI,employer
+75,2,86,The Formal,Both,8,AI,employer
+76,2,87,The Formal,Both,8,AI,employer
+77,2,88,The Formal,Both,3,AI,employer
+78,2,89,The Formal,Both,8,AI,employer
+79,2,90,The Formal,Both,10,AI,employer
+80,2,91,The Formal,Both,3,AI,employer
+81,2,92,Your,Both,0,AI,employer
+82,2,93,The Formal,Both,8,AI,employer
+83,2,94,Your,Both,8,AI,employer
+84,2,95,Your,Both,3,AI,employer
+85,2,96,The Formal,Both,5,AI,employer
+86,2,97,The Formal,Both,10,AI,employer
+87,2,98,Your,Both,1,AI,employer
+88,2,99,Your,Both,6,AI,employer
+89,2,100,The Formal,Both,10,AI,employer
+90,2,101,Your,Both,10,AI,employer
+91,2,102,Your,Both,8,AI,employer
+92,2,103,Your,Both,10,AI,employer
+93,2,104,The Formal,Both,10,AI,employer
+94,2,105,Your,Both,9,AI,employer
+95,2,106,Your,Both,9,AI,employer
+96,2,107,The Formal,Both,10,AI,employer
+97,2,108,The Formal,Both,4,AI,employer
+98,2,109,Your,Both,5,AI,employer
+99,2,110,The Formal,Both,10,AI,employer
+100,2,111,Your,Both,8,AI,employer
+101,2,112,Your,Both,0,AI,employer
+102,2,113,Your,Both,0,AI,employer
+103,2,114,Your,Both,8,AI,employer
+104,2,115,The Formal,Both,2,AI,employer
+105,2,116,The Formal,Both,9,AI,employer
+106,2,117,Your,Both,9,AI,employer
+107,2,118,Your,Both,6,AI,employer
+108,2,119,Your,Both,10,AI,employer
+109,2,120,The Formal,Both,8,AI,employer
+110,2,121,Your,Both,7,AI,employer
+111,2,122,Your,Both,10,AI,employer
+112,2,123,The Formal,Both,3,AI,employer
+113,2,124,Your,Both,7,AI,employer
+114,2,125,The Formal,Both,10,AI,employer
+115,2,126,Your,Both,10,AI,employer
+116,2,127,The Formal,Both,6,AI,employer
+117,2,128,Your,Both,7,AI,employer
+118,2,129,Your,Both,7,AI,employer
+119,2,130,Your,Both,10,AI,employer
+120,2,131,The Formal,Both,9,AI,employer
+121,2,132,Your,Both,10,AI,employer
+122,2,133,The Formal,Both,9,AI,employer
+123,2,134,Your,Both,8,AI,employer
+124,2,135,The Formal,Both,6,AI,employer
+125,2,136,The Formal,Both,5,AI,employer
+126,2,137,Your,Both,10,AI,employer
+127,2,138,The Formal,Both,2,AI,employer
+128,2,139,Your,Both,3,AI,employer
+129,2,140,Your,Both,10,AI,employer
+3,3,60ce1d6d0c6dae2c0360f926,Both,AI,10,AI,employer
+5,3,5eaa97d07eda6e01ec108107,Both,AI,10,AI,employer
+9,3,5faef172bbab740eb8533e8a,Both,AI,10,AI,employer
+10,3,60dc3f2e921ea0bbfc791df2,Both,AI,7,AI,employer
+11,3,60e06cd1df7b4ae59d8b6a6a,Both,AI,9,AI,employer
+12,3,5ec7e258f052ac26af7aafc5,Both,AI,10,AI,employer
+17,3,60de0942e48acbaca6072666,Both,AI,0,AI,employer
+18,3,60cf52b409077c1ea45f8b36,Both,AI,10,AI,employer
+19,3,5acb3b88f69e940001d9b83a,Both,AI,10,AI,employer
+20,3,60e0ca31557a574319c39780,Both,AI,4,AI,employer
+22,3,5e4424749319f82bb3c5118f,Both,AI,3,AI,employer
+23,3,60e0cf14211f57a158950c63,Both,AI,10,AI,employer
+26,3,60ddea6f590099fecd162250,Both,AI,6,AI,employer
+27,3,60e0b3f2a8413d503d31c1bb,Both,AI,0,AI,employer
+28,3,60e06297185df0d1c40e8c0c,Both,AI,10,AI,employer
+33,3,5edb479a65964c7b4a6db0a9,Both,AI,10,AI,employer
+35,3,60de293b31bac94001a6d980,Both,AI,1,AI,employer
+37,3,60e0c1641783315b4e6ed5c7,Both,AI,9,AI,employer
+38,3,60df0cc20d7ae4e27ea035ac,Both,AI,0,AI,employer
+39,3,60e1ad4eb1af4648ebd18b70,Both,AI,3,AI,employer
+41,3,60e10ed73b3d207be7f805e3,Both,AI,8,AI,employer
+44,3,60dee8e78f202dd7e683b2ac,Both,AI,10,AI,employer
+45,3,60dfaa93591ed77785918d4b,Both,AI,8,AI,employer
+46,3,60e16fe59a9d5dbf5acd9af0,Both,AI,10,AI,employer
+48,3,5a5f7480acc75b00017aab51,Both,AI,8,AI,employer
+50,3,60d273217dd7dde4d8f21748,Both,AI,9,AI,employer
+51,3,60d6497b6f2147b24ee44732,Both,AI,6,AI,employer
+55,3,60e1b97d9e85e47446db321d,Both,AI,4,AI,employer
+56,3,60e0b93c3038b854db4960ff,Both,AI,8,AI,employer
+57,3,60df6d0879c92942c997958b,Both,AI,7,AI,employer
+58,3,60ddb84386eb83559f02534c,Both,AI,8,AI,employer
+62,3,60e022767fe4b17d5e9cddc0,Both,AI,5,AI,employer
+65,3,60df70ed696ecb699b7751fc,Both,AI,8,AI,employer
+70,3,60e060cff610d45c130ff87d,Both,AI,5,AI,employer
+71,3,60df40102efaff7821689d62,Both,AI,10,AI,employer
+72,3,5f7b6f66f815c412bc31bc7c,Both,AI,6,AI,employer
+65,1,R_25tMBEAzANV5ZVg,The Formal,Human,10,Human,instructor
+66,1,R_3ETpPtriPQ60V91,The Formal,Human,4,Human,instructor
+67,1,R_1BVCxnpUo0APBRk,The Formal,Human,4,Human,instructor
+68,1,R_1IWYL94AdQPoEPC,The Formal,Human,6,Human,instructor
+69,1,R_278rbzayMDcNmt5,The Formal,Human,6,Human,instructor
+70,1,R_3RwSGiCOUsN7gpS,The Formal,Human,9,Human,instructor
+71,1,R_2ZV6yeUqljDq2hC,The Formal,Human,1,Human,instructor
+72,1,R_1KkkjLfaAJOhMBl,The Formal,Human,8,Human,instructor
+73,1,R_3DcmzvQtWxPxNGu,The Formal,Human,7,Human,instructor
+74,1,R_C3QjofXlJt0549X,The Formal,Human,1,Human,instructor
+75,1,R_1LSVXUexHSnQJVi,The Formal,Human,2,Human,instructor
+76,1,R_zcJmeXeXPYD2iRP,The Formal,Human,8,Human,instructor
+77,1,R_2cchOxfpDO2UmRc,The Formal,Human,8,Human,instructor
+78,1,R_1jJNsNm1eT9j6CK,The Formal,Human,2,Human,instructor
+79,1,R_2xDmv1eR5yN1gu2,The Formal,Human,0,Human,instructor
+80,1,R_3FW0PvjdYRgK2zj,The Formal,Human,10,Human,instructor
+81,1,R_1EjracXrZOsIzyI,The Formal,Human,6,Human,instructor
+82,1,R_sGdRSbJ2XKyZJ6h,The Formal,Human,10,Human,instructor
+83,1,R_ToPgij9tYu0qugF,The Formal,Human,1,Human,instructor
+84,1,R_1NqtprVBQTuJIcb,The Formal,Human,5,Human,instructor
+85,1,R_3FWFTAZrQcxe0je,The Formal,Human,1,Human,instructor
+86,1,R_2fwzJWIF8dxalpR,The Formal,Human,4,Human,instructor
+87,1,R_saEuy0hi42Skl2x,The Formal,Human,0,Human,instructor
+88,1,R_AKZ8nLsTv7I2jNT,The Formal,Human,0,Human,instructor
+89,1,R_RP6CW5sOL4eqtnr,The Formal,Human,10,Human,instructor
+90,1,R_2aJf8hiqgzSluZ4,The Formal,Human,3,Human,instructor
+91,1,R_2zf4fun6aXckdLD,The Formal,Human,3,Human,instructor
+92,1,R_bf0hfoIMEe4zkrL,The Formal,Human,6,Human,instructor
+93,1,R_1gISXhOE1AOcfZw,The Formal,Human,2,Human,instructor
+94,1,R_1Ny82OuTv7T82cX,The Formal,Human,7,Human,instructor
+95,1,R_1gdTOGpK4Xga33W,The Formal,Human,2,Human,instructor
+96,1,R_1MRFSgtG9Cju6ib,The Formal,Human,9,Human,instructor
+97,1,R_2ZJLiPCbWp2FPgl,The Formal,Human,1,Human,instructor
+98,1,R_3qNCrJ3P3NuIO7K,The Formal,Human,9,Human,instructor
+99,1,R_1g5UNHg7n3lvYBG,Your,Human,3,Human,instructor
+100,1,R_3fUXaLueudrFWw5,Your,Human,10,Human,instructor
+101,1,R_tVyNfdNSIdEoLHH,Your,Human,1,Human,instructor
+102,1,R_2zU3sLDl7OyzbV3,Your,Human,1,Human,instructor
+103,1,R_12btLsYjNQzpXdy,Your,Human,0,Human,instructor
+104,1,R_5Ar03NRVriYhcFr,Your,Human,8,Human,instructor
+105,1,R_2ZDG1Y9jodRhNOP,Your,Human,9,Human,instructor
+106,1,R_BKsjr4eLFp3iKmB,Your,Human,9,Human,instructor
+107,1,R_1LtBjh70KlAxyA0,Your,Human,10,Human,instructor
+108,1,R_3JC1i6bJjUlFT5n,Your,Human,2,Human,instructor
+109,1,R_vDcRxaNRvH9yvvj,Your,Human,5,Human,instructor
+110,1,R_3hinHlTTJvEhJWQ,Your,Human,8,Human,instructor
+111,1,R_9GLsocQoCCHBMTn,Your,Human,10,Human,instructor
+112,1,R_VItVuUcW34QvFSN,Your,Human,5,Human,instructor
+113,1,R_4YewlUUI9JymyIN,Your,Human,10,Human,instructor
+114,1,R_2P82o3mgbe7AhFV,Your,Human,0,Human,instructor
+115,1,R_1oj3u5Xd8Ld72nr,Your,Human,10,Human,instructor
+116,1,R_3ikTKsDWqeSwtp0,Your,Human,6,Human,instructor
+117,1,R_RaSTH6empGptClr,Your,Human,7,Human,instructor
+118,1,R_cSklwfYltahQs8x,Your,Human,7,Human,instructor
+119,1,R_1MSzX1JAZ4np3i4,Your,Human,2,Human,instructor
+120,1,R_yZTZshGIv194zMR,Your,Human,7,Human,instructor
+121,1,R_307bT4wCkylnQyd,Your,Human,3,Human,instructor
+122,1,R_1rCuggkelbhv4fO,Your,Human,1,Human,instructor
+123,1,R_1OUjQGj5D8DRv8u,Your,Human,3,Human,instructor
+124,1,R_tYbp6Hbk0SmRTYl,Your,Human,4,Human,instructor
+125,1,R_1qWKH0yNnxTtb08,Your,Human,10,Human,instructor
+126,1,R_DjiqgDFlCiPQWtP,Your,Human,9,Human,instructor
+0,2,11,Your,Both,10,Human,instructor
+1,2,12,Your,Both,8,Human,instructor
+2,2,13,Your,Both,6,Human,instructor
+3,2,14,Your,Both,5,Human,instructor
+4,2,15,Your,Both,7,Human,instructor
+5,2,16,Your,Both,9,Human,instructor
+6,2,17,The Formal,Both,7,Human,instructor
+7,2,18,Your,Both,6,Human,instructor
+8,2,19,Your,Both,10,Human,instructor
+9,2,20,Your,Both,7,Human,instructor
+10,2,21,Your,Both,10,Human,instructor
+11,2,22,The Formal,Both,5,Human,instructor
+12,2,23,The Formal,Both,8,Human,instructor
+13,2,24,The Formal,Both,0,Human,instructor
+14,2,25,Your,Both,1,Human,instructor
+15,2,26,The Formal,Both,0,Human,instructor
+16,2,27,Your,Both,6,Human,instructor
+17,2,28,Your,Both,0,Human,instructor
+18,2,29,The Formal,Both,10,Human,instructor
+19,2,30,The Formal,Both,2,Human,instructor
+20,2,31,Your,Both,3,Human,instructor
+21,2,32,The Formal,Both,8,Human,instructor
+22,2,33,The Formal,Both,10,Human,instructor
+23,2,34,The Formal,Both,0,Human,instructor
+24,2,35,The Formal,Both,4,Human,instructor
+25,2,36,The Formal,Both,9,Human,instructor
+26,2,37,The Formal,Both,7,Human,instructor
+27,2,38,Your,Both,5,Human,instructor
+28,2,39,The Formal,Both,10,Human,instructor
+29,2,40,Your,Both,8,Human,instructor
+30,2,41,The Formal,Both,10,Human,instructor
+31,2,42,Your,Both,9,Human,instructor
+32,2,43,Your,Both,2,Human,instructor
+33,2,44,The Formal,Both,10,Human,instructor
+34,2,45,The Formal,Both,3,Human,instructor
+35,2,46,Your,Both,6,Human,instructor
+36,2,47,The Formal,Both,2,Human,instructor
+37,2,48,The Formal,Both,10,Human,instructor
+38,2,49,Your,Both,0,Human,instructor
+39,2,50,The Formal,Both,8,Human,instructor
+40,2,51,Your,Both,10,Human,instructor
+41,2,52,The Formal,Both,2,Human,instructor
+42,2,53,Your,Both,7,Human,instructor
+43,2,54,Your,Both,8,Human,instructor
+44,2,55,The Formal,Both,5,Human,instructor
+45,2,56,The Formal,Both,0,Human,instructor
+46,2,57,Your,Both,7,Human,instructor
+47,2,58,The Formal,Both,5,Human,instructor
+48,2,59,The Formal,Both,7,Human,instructor
+49,2,60,Your,Both,10,Human,instructor
+50,2,61,The Formal,Both,5,Human,instructor
+51,2,62,Your,Both,1,Human,instructor
+52,2,63,Your,Both,1,Human,instructor
+53,2,64,Your,Both,10,Human,instructor
+54,2,65,Your,Both,9,Human,instructor
+55,2,66,Your,Both,7,Human,instructor
+56,2,67,The Formal,Both,5,Human,instructor
+57,2,68,Your,Both,3,Human,instructor
+58,2,69,The Formal,Both,2,Human,instructor
+59,2,70,Your,Both,10,Human,instructor
+60,2,71,The Formal,Both,9,Human,instructor
+61,2,72,The Formal,Both,10,Human,instructor
+62,2,73,The Formal,Both,7,Human,instructor
+63,2,74,Your,Both,10,Human,instructor
+64,2,75,The Formal,Both,10,Human,instructor
+65,2,76,Your,Both,9,Human,instructor
+66,2,77,The Formal,Both,8,Human,instructor
+67,2,78,Your,Both,5,Human,instructor
+68,2,79,The Formal,Both,10,Human,instructor
+69,2,80,Your,Both,4,Human,instructor
+70,2,81,The Formal,Both,1,Human,instructor
+71,2,82,The Formal,Both,9,Human,instructor
+72,2,83,The Formal,Both,7,Human,instructor
+73,2,84,The Formal,Both,7,Human,instructor
+74,2,85,Your,Both,1,Human,instructor
+75,2,86,The Formal,Both,6,Human,instructor
+76,2,87,The Formal,Both,8,Human,instructor
+77,2,88,The Formal,Both,10,Human,instructor
+78,2,89,The Formal,Both,4,Human,instructor
+79,2,90,The Formal,Both,10,Human,instructor
+80,2,91,The Formal,Both,1,Human,instructor
+81,2,92,Your,Both,10,Human,instructor
+82,2,93,The Formal,Both,1,Human,instructor
+83,2,94,Your,Both,9,Human,instructor
+84,2,95,Your,Both,4,Human,instructor
+85,2,96,The Formal,Both,5,Human,instructor
+86,2,97,The Formal,Both,6,Human,instructor
+87,2,98,Your,Both,1,Human,instructor
+88,2,99,Your,Both,5,Human,instructor
+89,2,100,The Formal,Both,9,Human,instructor
+90,2,101,Your,Both,8,Human,instructor
+91,2,102,Your,Both,7,Human,instructor
+92,2,103,Your,Both,10,Human,instructor
+93,2,104,The Formal,Both,10,Human,instructor
+94,2,105,Your,Both,10,Human,instructor
+95,2,106,Your,Both,10,Human,instructor
+96,2,107,The Formal,Both,3,Human,instructor
+97,2,108,The Formal,Both,2,Human,instructor
+98,2,109,Your,Both,1,Human,instructor
+99,2,110,The Formal,Both,10,Human,instructor
+100,2,111,Your,Both,9,Human,instructor
+101,2,112,Your,Both,1,Human,instructor
+102,2,113,Your,Both,10,Human,instructor
+103,2,114,Your,Both,4,Human,instructor
+104,2,115,The Formal,Both,1,Human,instructor
+105,2,116,The Formal,Both,6,Human,instructor
+106,2,117,Your,Both,1,Human,instructor
+107,2,118,Your,Both,5,Human,instructor
+108,2,119,Your,Both,0,Human,instructor
+109,2,120,The Formal,Both,7,Human,instructor
+110,2,121,Your,Both,10,Human,instructor
+111,2,122,Your,Both,10,Human,instructor
+112,2,123,The Formal,Both,3,Human,instructor
+113,2,124,Your,Both,10,Human,instructor
+114,2,125,The Formal,Both,0,Human,instructor
+115,2,126,Your,Both,0,Human,instructor
+116,2,127,The Formal,Both,8,Human,instructor
+117,2,128,Your,Both,10,Human,instructor
+118,2,129,Your,Both,7,Human,instructor
+119,2,130,Your,Both,2,Human,instructor
+120,2,131,The Formal,Both,8,Human,instructor
+121,2,132,Your,Both,10,Human,instructor
+122,2,133,The Formal,Both,2,Human,instructor
+123,2,134,Your,Both,9,Human,instructor
+124,2,135,The Formal,Both,0,Human,instructor
+125,2,136,The Formal,Both,5,Human,instructor
+126,2,137,Your,Both,10,Human,instructor
+127,2,138,The Formal,Both,5,Human,instructor
+128,2,139,Your,Both,8,Human,instructor
+129,2,140,Your,Both,10,Human,instructor
+0,3,60e1b62573820810826e4087,Both,Human,9,Human,instructor
+1,3,57627bfcb1981100068ad7e3,Both,Human,3,Human,instructor
+2,3,5c324470d071a2000143c82a,Both,Human,8,Human,instructor
+4,3,60e08fee5babddf2e34f1db5,Both,Human,6,Human,instructor
+6,3,5ec83217e7e29110f1f1cde0,Both,Human,10,Human,instructor
+7,3,60e080185b201859ff688f9a,Both,Human,10,Human,instructor
+8,3,60e10054d32fedf64b973cda,Both,Human,7,Human,instructor
+13,3,60e162cd32af93de52e5ec77,Both,Human,6,Human,instructor
+14,3,60e07262304e555e773a8ea9,Both,Human,7,Human,instructor
+15,3,60e04bcfbb3893c6fd11682c,Both,Human,6,Human,instructor
+16,3,60d9f0032a884b23c9464925,Both,Human,6,Human,instructor
+21,3,60df70e611fccf01edd880d6,Both,Human,2,Human,instructor
+24,3,60e1b00ba11a5901f1c360ff,Both,Human,3,Human,instructor
+25,3,60e0b6ca75a36ef4797577fd,Both,Human,10,Human,instructor
+29,3,60dccadad77a371b1b6d8609,Both,Human,6,Human,instructor
+30,3,60df7e239cb5834e2261f037,Both,Human,10,Human,instructor
+31,3,60dd99df39ca28a52128dc2c,Both,Human,10,Human,instructor
+32,3,6051b05111d3ca0dca8334b8,Both,Human,4,Human,instructor
+34,3,5dea48ec5b5613164248c9bc,Both,Human,5,Human,instructor
+36,3,60dd582e20e058641847b5b6,Both,Human,3,Human,instructor
+40,3,60de05dd943d0f15556c656f,Both,Human,1,Human,instructor
+42,3,5d288cc0710db10018bdef31,Both,Human,10,Human,instructor
+43,3,5c634cf0c30e390001ce2307,Both,Human,10,Human,instructor
+47,3,60e0a24fe0ea51877a82be7d,Both,Human,8,Human,instructor
+49,3,60e0bb0286b7a379d36aafba,Both,Human,10,Human,instructor
+52,3,60e06ae17c1aacf5341d6f8c,Both,Human,2,Human,instructor
+53,3,60e0b8e9ecfb9fad8eb4b396,Both,Human,4,Human,instructor
+54,3,60e1825f7bf27bc687dc20aa,Both,Human,8,Human,instructor
+59,3,60e0bffb9cd65dae5610b542,Both,Human,3,Human,instructor
+60,3,60e0fa90d40ed90b3ea99e4b,Both,Human,0,Human,instructor
+61,3,60e18fc810d0837bef0f5873,Both,Human,0,Human,instructor
+63,3,60df1cc8cf3d0394f263b210,Both,Human,9,Human,instructor
+64,3,5ac64f340527ba0001c224fc,Both,Human,1,Human,instructor
+66,3,5dbc82054ea3b2235b277058,Both,Human,10,Human,instructor
+67,3,60e0ec3dd9c51beb8edd7445,Both,Human,3,Human,instructor
+68,3,60e02b2fde1ce3582206719c,Both,Human,10,Human,instructor
+69,3,60e1cc8d70825ff9d7caf113,Both,Human,6,Human,instructor
+73,3,60df2fb643e3c64f5adda16b,Both,Human,10,Human,instructor
+65,1,R_25tMBEAzANV5ZVg,The Formal,Human,8,Human,employer
+66,1,R_3ETpPtriPQ60V91,The Formal,Human,5,Human,employer
+67,1,R_1BVCxnpUo0APBRk,The Formal,Human,6,Human,employer
+68,1,R_1IWYL94AdQPoEPC,The Formal,Human,9,Human,employer
+69,1,R_278rbzayMDcNmt5,The Formal,Human,7,Human,employer
+70,1,R_3RwSGiCOUsN7gpS,The Formal,Human,10,Human,employer
+71,1,R_2ZV6yeUqljDq2hC,The Formal,Human,2,Human,employer
+72,1,R_1KkkjLfaAJOhMBl,The Formal,Human,9,Human,employer
+73,1,R_3DcmzvQtWxPxNGu,The Formal,Human,6,Human,employer
+74,1,R_C3QjofXlJt0549X,The Formal,Human,6,Human,employer
+75,1,R_1LSVXUexHSnQJVi,The Formal,Human,6,Human,employer
+76,1,R_zcJmeXeXPYD2iRP,The Formal,Human,7,Human,employer
+77,1,R_2cchOxfpDO2UmRc,The Formal,Human,9,Human,employer
+78,1,R_1jJNsNm1eT9j6CK,The Formal,Human,3,Human,employer
+79,1,R_2xDmv1eR5yN1gu2,The Formal,Human,0,Human,employer
+80,1,R_3FW0PvjdYRgK2zj,The Formal,Human,6,Human,employer
+81,1,R_1EjracXrZOsIzyI,The Formal,Human,7,Human,employer
+82,1,R_sGdRSbJ2XKyZJ6h,The Formal,Human,8,Human,employer
+83,1,R_ToPgij9tYu0qugF,The Formal,Human,1,Human,employer
+84,1,R_1NqtprVBQTuJIcb,The Formal,Human,5,Human,employer
+85,1,R_3FWFTAZrQcxe0je,The Formal,Human,2,Human,employer
+86,1,R_2fwzJWIF8dxalpR,The Formal,Human,6,Human,employer
+87,1,R_saEuy0hi42Skl2x,The Formal,Human,6,Human,employer
+88,1,R_AKZ8nLsTv7I2jNT,The Formal,Human,0,Human,employer
+89,1,R_RP6CW5sOL4eqtnr,The Formal,Human,10,Human,employer
+90,1,R_2aJf8hiqgzSluZ4,The Formal,Human,3,Human,employer
+91,1,R_2zf4fun6aXckdLD,The Formal,Human,2,Human,employer
+92,1,R_bf0hfoIMEe4zkrL,The Formal,Human,5,Human,employer
+93,1,R_1gISXhOE1AOcfZw,The Formal,Human,3,Human,employer
+94,1,R_1Ny82OuTv7T82cX,The Formal,Human,8,Human,employer
+95,1,R_1gdTOGpK4Xga33W,The Formal,Human,3,Human,employer
+96,1,R_1MRFSgtG9Cju6ib,The Formal,Human,9,Human,employer
+97,1,R_2ZJLiPCbWp2FPgl,The Formal,Human,1,Human,employer
+98,1,R_3qNCrJ3P3NuIO7K,The Formal,Human,9,Human,employer
+99,1,R_1g5UNHg7n3lvYBG,Your,Human,7,Human,employer
+100,1,R_3fUXaLueudrFWw5,Your,Human,1,Human,employer
+101,1,R_tVyNfdNSIdEoLHH,Your,Human,10,Human,employer
+102,1,R_2zU3sLDl7OyzbV3,Your,Human,3,Human,employer
+103,1,R_12btLsYjNQzpXdy,Your,Human,0,Human,employer
+104,1,R_5Ar03NRVriYhcFr,Your,Human,4,Human,employer
+105,1,R_2ZDG1Y9jodRhNOP,Your,Human,6,Human,employer
+106,1,R_BKsjr4eLFp3iKmB,Your,Human,7,Human,employer
+107,1,R_1LtBjh70KlAxyA0,Your,Human,6,Human,employer
+108,1,R_3JC1i6bJjUlFT5n,Your,Human,7,Human,employer
+109,1,R_vDcRxaNRvH9yvvj,Your,Human,7,Human,employer
+110,1,R_3hinHlTTJvEhJWQ,Your,Human,6,Human,employer
+111,1,R_9GLsocQoCCHBMTn,Your,Human,7,Human,employer
+112,1,R_VItVuUcW34QvFSN,Your,Human,7,Human,employer
+113,1,R_4YewlUUI9JymyIN,Your,Human,4,Human,employer
+114,1,R_2P82o3mgbe7AhFV,Your,Human,0,Human,employer
+115,1,R_1oj3u5Xd8Ld72nr,Your,Human,10,Human,employer
+116,1,R_3ikTKsDWqeSwtp0,Your,Human,5,Human,employer
+117,1,R_RaSTH6empGptClr,Your,Human,6,Human,employer
+118,1,R_cSklwfYltahQs8x,Your,Human,9,Human,employer
+119,1,R_1MSzX1JAZ4np3i4,Your,Human,4,Human,employer
+120,1,R_yZTZshGIv194zMR,Your,Human,7,Human,employer
+121,1,R_307bT4wCkylnQyd,Your,Human,8,Human,employer
+122,1,R_1rCuggkelbhv4fO,Your,Human,8,Human,employer
+123,1,R_1OUjQGj5D8DRv8u,Your,Human,8,Human,employer
+124,1,R_tYbp6Hbk0SmRTYl,Your,Human,5,Human,employer
+125,1,R_1qWKH0yNnxTtb08,Your,Human,10,Human,employer
+126,1,R_DjiqgDFlCiPQWtP,Your,Human,5,Human,employer
+0,2,11,Your,Both,8,Human,employer
+1,2,12,Your,Both,8,Human,employer
+2,2,13,Your,Both,6,Human,employer
+3,2,14,Your,Both,5,Human,employer
+4,2,15,Your,Both,8,Human,employer
+5,2,16,Your,Both,7,Human,employer
+6,2,17,The Formal,Both,7,Human,employer
+7,2,18,Your,Both,6,Human,employer
+8,2,19,Your,Both,10,Human,employer
+9,2,20,Your,Both,4,Human,employer
+10,2,21,Your,Both,10,Human,employer
+11,2,22,The Formal,Both,5,Human,employer
+12,2,23,The Formal,Both,9,Human,employer
+13,2,24,The Formal,Both,0,Human,employer
+14,2,25,Your,Both,3,Human,employer
+15,2,26,The Formal,Both,10,Human,employer
+16,2,27,Your,Both,6,Human,employer
+17,2,28,Your,Both,2,Human,employer
+18,2,29,The Formal,Both,8,Human,employer
+19,2,30,The Formal,Both,5,Human,employer
+20,2,31,Your,Both,10,Human,employer
+21,2,32,The Formal,Both,9,Human,employer
+22,2,33,The Formal,Both,10,Human,employer
+23,2,34,The Formal,Both,6,Human,employer
+24,2,35,The Formal,Both,4,Human,employer
+25,2,36,The Formal,Both,9,Human,employer
+26,2,37,The Formal,Both,7,Human,employer
+27,2,38,Your,Both,10,Human,employer
+28,2,39,The Formal,Both,0,Human,employer
+29,2,40,Your,Both,9,Human,employer
+30,2,41,The Formal,Both,10,Human,employer
+31,2,42,Your,Both,10,Human,employer
+32,2,43,Your,Both,8,Human,employer
+33,2,44,The Formal,Both,10,Human,employer
+34,2,45,The Formal,Both,10,Human,employer
+35,2,46,Your,Both,6,Human,employer
+36,2,47,The Formal,Both,5,Human,employer
+37,2,48,The Formal,Both,4,Human,employer
+38,2,49,Your,Both,3,Human,employer
+39,2,50,The Formal,Both,8,Human,employer
+40,2,51,Your,Both,5,Human,employer
+41,2,52,The Formal,Both,2,Human,employer
+42,2,53,Your,Both,8,Human,employer
+43,2,54,Your,Both,10,Human,employer
+44,2,55,The Formal,Both,10,Human,employer
+45,2,56,The Formal,Both,0,Human,employer
+46,2,57,Your,Both,7,Human,employer
+47,2,58,The Formal,Both,5,Human,employer
+48,2,59,The Formal,Both,6,Human,employer
+49,2,60,Your,Both,10,Human,employer
+50,2,61,The Formal,Both,6,Human,employer
+51,2,62,Your,Both,5,Human,employer
+52,2,63,Your,Both,1,Human,employer
+53,2,64,Your,Both,10,Human,employer
+54,2,65,Your,Both,7,Human,employer
+55,2,66,Your,Both,6,Human,employer
+56,2,67,The Formal,Both,5,Human,employer
+57,2,68,Your,Both,6,Human,employer
+58,2,69,The Formal,Both,7,Human,employer
+59,2,70,Your,Both,10,Human,employer
+60,2,71,The Formal,Both,9,Human,employer
+61,2,72,The Formal,Both,10,Human,employer
+62,2,73,The Formal,Both,8,Human,employer
+63,2,74,Your,Both,10,Human,employer
+64,2,75,The Formal,Both,10,Human,employer
+65,2,76,Your,Both,9,Human,employer
+66,2,77,The Formal,Both,9,Human,employer
+67,2,78,Your,Both,7,Human,employer
+68,2,79,The Formal,Both,10,Human,employer
+69,2,80,Your,Both,9,Human,employer
+70,2,81,The Formal,Both,2,Human,employer
+71,2,82,The Formal,Both,10,Human,employer
+72,2,83,The Formal,Both,6,Human,employer
+73,2,84,The Formal,Both,7,Human,employer
+74,2,85,Your,Both,1,Human,employer
+75,2,86,The Formal,Both,7,Human,employer
+76,2,87,The Formal,Both,9,Human,employer
+77,2,88,The Formal,Both,9,Human,employer
+78,2,89,The Formal,Both,6,Human,employer
+79,2,90,The Formal,Both,10,Human,employer
+80,2,91,The Formal,Both,1,Human,employer
+81,2,92,Your,Both,10,Human,employer
+82,2,93,The Formal,Both,7,Human,employer
+83,2,94,Your,Both,7,Human,employer
+84,2,95,Your,Both,4,Human,employer
+85,2,96,The Formal,Both,5,Human,employer
+86,2,97,The Formal,Both,10,Human,employer
+87,2,98,Your,Both,1,Human,employer
+88,2,99,Your,Both,5,Human,employer
+89,2,100,The Formal,Both,9,Human,employer
+90,2,101,Your,Both,8,Human,employer
+91,2,102,Your,Both,8,Human,employer
+92,2,103,Your,Both,10,Human,employer
+93,2,104,The Formal,Both,8,Human,employer
+94,2,105,Your,Both,1,Human,employer
+95,2,106,Your,Both,9,Human,employer
+96,2,107,The Formal,Both,8,Human,employer
+97,2,108,The Formal,Both,2,Human,employer
+98,2,109,Your,Both,2,Human,employer
+99,2,110,The Formal,Both,10,Human,employer
+100,2,111,Your,Both,9,Human,employer
+101,2,112,Your,Both,1,Human,employer
+102,2,113,Your,Both,0,Human,employer
+103,2,114,Your,Both,8,Human,employer
+104,2,115,The Formal,Both,1,Human,employer
+105,2,116,The Formal,Both,6,Human,employer
+106,2,117,Your,Both,8,Human,employer
+107,2,118,Your,Both,5,Human,employer
+108,2,119,Your,Both,10,Human,employer
+109,2,120,The Formal,Both,8,Human,employer
+110,2,121,Your,Both,10,Human,employer
+111,2,122,Your,Both,10,Human,employer
+112,2,123,The Formal,Both,3,Human,employer
+113,2,124,Your,Both,6,Human,employer
+114,2,125,The Formal,Both,0,Human,employer
+115,2,126,Your,Both,0,Human,employer
+116,2,127,The Formal,Both,9,Human,employer
+117,2,128,Your,Both,7,Human,employer
+118,2,129,Your,Both,7,Human,employer
+119,2,130,Your,Both,8,Human,employer
+120,2,131,The Formal,Both,8,Human,employer
+121,2,132,Your,Both,10,Human,employer
+122,2,133,The Formal,Both,8,Human,employer
+123,2,134,Your,Both,9,Human,employer
+124,2,135,The Formal,Both,5,Human,employer
+125,2,136,The Formal,Both,5,Human,employer
+126,2,137,Your,Both,10,Human,employer
+127,2,138,The Formal,Both,2,Human,employer
+128,2,139,Your,Both,8,Human,employer
+129,2,140,Your,Both,10,Human,employer
+0,3,60e1b62573820810826e4087,Both,Human,8,Human,employer
+1,3,57627bfcb1981100068ad7e3,Both,Human,7,Human,employer
+2,3,5c324470d071a2000143c82a,Both,Human,8,Human,employer
+4,3,60e08fee5babddf2e34f1db5,Both,Human,5,Human,employer
+6,3,5ec83217e7e29110f1f1cde0,Both,Human,8,Human,employer
+7,3,60e080185b201859ff688f9a,Both,Human,8,Human,employer
+8,3,60e10054d32fedf64b973cda,Both,Human,7,Human,employer
+13,3,60e162cd32af93de52e5ec77,Both,Human,8,Human,employer
+14,3,60e07262304e555e773a8ea9,Both,Human,5,Human,employer
+15,3,60e04bcfbb3893c6fd11682c,Both,Human,6,Human,employer
+16,3,60d9f0032a884b23c9464925,Both,Human,6,Human,employer
+21,3,60df70e611fccf01edd880d6,Both,Human,3,Human,employer
+24,3,60e1b00ba11a5901f1c360ff,Both,Human,3,Human,employer
+25,3,60e0b6ca75a36ef4797577fd,Both,Human,7,Human,employer
+29,3,60dccadad77a371b1b6d8609,Both,Human,6,Human,employer
+30,3,60df7e239cb5834e2261f037,Both,Human,10,Human,employer
+31,3,60dd99df39ca28a52128dc2c,Both,Human,8,Human,employer
+32,3,6051b05111d3ca0dca8334b8,Both,Human,5,Human,employer
+34,3,5dea48ec5b5613164248c9bc,Both,Human,6,Human,employer
+36,3,60dd582e20e058641847b5b6,Both,Human,6,Human,employer
+40,3,60de05dd943d0f15556c656f,Both,Human,3,Human,employer
+42,3,5d288cc0710db10018bdef31,Both,Human,6,Human,employer
+43,3,5c634cf0c30e390001ce2307,Both,Human,10,Human,employer
+47,3,60e0a24fe0ea51877a82be7d,Both,Human,4,Human,employer
+49,3,60e0bb0286b7a379d36aafba,Both,Human,9,Human,employer
+52,3,60e06ae17c1aacf5341d6f8c,Both,Human,1,Human,employer
+53,3,60e0b8e9ecfb9fad8eb4b396,Both,Human,10,Human,employer
+54,3,60e1825f7bf27bc687dc20aa,Both,Human,7,Human,employer
+59,3,60e0bffb9cd65dae5610b542,Both,Human,2,Human,employer
+60,3,60e0fa90d40ed90b3ea99e4b,Both,Human,0,Human,employer
+61,3,60e18fc810d0837bef0f5873,Both,Human,10,Human,employer
+63,3,60df1cc8cf3d0394f263b210,Both,Human,9,Human,employer
+64,3,5ac64f340527ba0001c224fc,Both,Human,2,Human,employer
+66,3,5dbc82054ea3b2235b277058,Both,Human,10,Human,employer
+67,3,60e0ec3dd9c51beb8edd7445,Both,Human,3,Human,employer
+68,3,60e02b2fde1ce3582206719c,Both,Human,10,Human,employer
+69,3,60e1cc8d70825ff9d7caf113,Both,Human,6,Human,employer
+73,3,60df2fb643e3c64f5adda16b,Both,Human,3,Human,employer
